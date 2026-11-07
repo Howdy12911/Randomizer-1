@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "title": "Test 1",
+    "duration": 10,
+    "notes": "Maintain fast pace and keep core engaged."
+  },
+  {
+    "id": "2",
+    "title": "Box Breath Focus",
+    "duration": 45,
+    "notes": "4s Inhale, 4s Hold, 4s Exhale, 4s Hold."
+  },
+  {
+    "id": "3",
+    "title": "Test 2",
+    "duration": 10,
+    "notes": "Keep full plank position with crisp form."
+  },
+  {
+    "id": "4",
+    "title": "Bodyweight Squats",
+    "duration": 45,
+    "notes": "Drive hips back and push through heels."
+  },
+  {
+    "id": "5",
+    "title": "Test 3",
+    "duration": 10,
+    "notes": "Neutral spine, squeeze glutes and core."
+  },
+  {
+    "id": "6",
+    "title": "Jumping Jacks",
+    "duration": 30,
+    "notes": "Light on feet with steady rhythm."
+  },
+  {
+    "id": "7",
+    "title": "Test 4",
+    "duration": 10,
+    "notes": "Drive knees toward chest aggressively."
+  },
+  {
+    "id": "8",
+    "title": "Shadow Boxing",
+    "duration": 45,
+    "notes": "Throw jab-cross combinations staying light on feet."
+  },
+  {
+    "id": "9",
+    "title": "Burpees",
+    "duration": 30,
+    "notes": "Chest to floor and explosive jump at the top."
+  },
+  {
+    "id": "10",
+    "title": "Walking Lunges",
+    "duration": 40,
+    "notes": "Alternate legs, keeping knee over ankle."
+  },
+  {
+    "id": "11",
+    "title": "Deep Diaphragmatic Breathing",
+    "duration": 60,
+    "notes": "Inhale into belly, slow complete release."
+  },
+  {
+    "id": "12",
+    "title": "Wall Sit Hold",
+    "duration": 45,
+    "notes": "Thighs parallel to floor, back flat to wall."
+  },
+  {
+    "id": "13",
+    "title": "Side Plank Right",
+    "duration": 30,
+    "notes": "Keep hips lifted in straight alignment."
+  },
+  {
+    "id": "14",
+    "title": "Side Plank Left",
+    "duration": 30,
+    "notes": "Keep hips lifted in straight alignment."
+  },
+  {
+    "id": "15",
+    "title": "High-Speed Vocal Articulation",
+    "duration": 40,
+    "notes": "Repeat tongue twisters clearly & loudly."
+  },
+  {
+    "id": "16",
+    "title": "High-Knee March & Twist",
+    "duration": 45,
+    "notes": "Touch opposite elbow to rising knee."
+  },
+  {
+    "id": "17",
+    "title": "Superman Hold",
+    "duration": 35,
+    "notes": "Squeeze lower back, lift chest and thighs."
+  },
+  {
+    "id": "18",
+    "title": "Rapid Eye Focus Tracking",
+    "duration": 30,
+    "notes": "Shift gaze between distant and near targets."
+  },
+  {
+    "id": "19",
+    "title": "Bicycle Crunches",
+    "duration": 40,
+    "notes": "Controlled tempo, focus on trunk rotation."
+  },
+  {
+    "id": "20",
+    "title": "Triceps Dips",
+    "duration": 35,
+    "notes": "Keep shoulders back, bend elbows to 90 degrees."
+  },
+  {
+    "id": "21",
+    "title": "Standing Calf Raises",
+    "duration": 45,
+    "notes": "Pause at the top peak contraction."
+  },
+  {
+    "id": "22",
+    "title": "Stutter Step Agility Footwork",
+    "duration": 30,
+    "notes": "Fast feet on the spot as quick as possible."
+  },
+  {
+    "id": "23",
+    "title": "Mindful Body Scan Meditation",
+    "duration": 60,
+    "notes": "Observe physical sensations from head to toes."
+  },
+  {
+    "id": "24",
+    "title": "Arm Circles Warm-up",
+    "duration": 30,
+    "notes": "15s forward circles, 15s backward circles."
+  },
+  {
+    "id": "25",
+    "title": "Russian Twists",
+    "duration": 40,
+    "notes": "Keep feet elevated if possible, touch floor sides."
+  },
+  {
+    "id": "26",
+    "title": "Glute Bridges",
+    "duration": 45,
+    "notes": "Squeeze glutes at top for 2-second pause."
+  },
+  {
+    "id": "27",
+    "title": "Public Speaking Power Pose",
+    "duration": 30,
+    "notes": "Stand wide, chest open, shoulders relaxed and confident."
+  },
+  {
+    "id": "28",
+    "title": "Skater Jumps",
+    "duration": 35,
+    "notes": "Lateral bounds side to side with balance."
+  },
+  {
+    "id": "29",
+    "title": "Bear Crawl Hold",
+    "duration": 40,
+    "notes": "Knees hover 2 inches off the ground."
+  },
+  {
+    "id": "30",
+    "title": "Neck & Shoulder Mobility Rolls",
+    "duration": 45,
+    "notes": "Gentle smooth circles, release all tension."
+  },
+  {
+    "id": "31",
+    "title": "Flutter Kicks",
+    "duration": 30,
+    "notes": "Press lower back into floor, small tight kicks."
+  },
+  {
+    "id": "32",
+    "title": "Isometric Biceps Grip Push",
+    "duration": 35,
+    "notes": "Press palms together forcefully at chest."
+  },
+  {
+    "id": "33",
+    "title": "V-Sit Hold",
+    "duration": 30,
+    "notes": "Balance on sit bones with extended legs."
+  },
+  {
+    "id": "34",
+    "title": "Speed Shadow Skips",
+    "duration": 40,
+    "notes": "Simulate high speed jump rope."
+  },
+  {
+    "id": "35",
+    "title": "Forward Fold Stretch",
+    "duration": 45,
+    "notes": "Hinge at hips, relax head and neck completely."
+  },
+  {
+    "id": "36",
+    "title": "High-Pitch Vocal Warmup Sirens",
+    "duration": 30,
+    "notes": "Slide pitch from low to high on \"Ooh\" sound."
+  },
+  {
+    "id": "37",
+    "title": "T-Rotation Push-ups",
+    "duration": 40,
+    "notes": "Rotate hand upwards toward ceiling after push."
+  },
+  {
+    "id": "38",
+    "title": "In-and-Out Squat Jumps",
+    "duration": 30,
+    "notes": "Land softly, alternating wide and narrow feet."
+  },
+  {
+    "id": "39",
+    "title": "Visualization & Goal Affirmation",
+    "duration": 60,
+    "notes": "Vividly visualize successful execution of your goal."
+  },
+  {
+    "id": "40",
+    "title": "Cooldown Slow Walk & Shakeout",
+    "duration": 45,
+    "notes": "Walk around, shake arms and legs to flush lactic acid."
+  }
+]
